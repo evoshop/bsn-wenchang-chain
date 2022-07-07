@@ -1,0 +1,20 @@
+{
+    "name": "evoshop/bsn-wenchang-chain",
+    "description": "bsn-wenchang-chain-sdk",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BsnWenchangChain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "evo",
+            "email": "814515181@qq.com",
+            "homepage": "https://github.com/evoshop/bsn-wenchang-chain"
+        }
+    ],
+    "require": {
+        "php":">=7.0"
+    }
+}
