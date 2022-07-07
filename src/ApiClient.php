@@ -1,6 +1,6 @@
 <?php
 
-namespace Evoshop\BsnWenchangChain;
+namespace BsnWenchangChain;
 
 class ApiClient
 {
